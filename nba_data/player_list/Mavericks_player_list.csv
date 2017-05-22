@@ -1,0 +1,305 @@
+SEASON,TEAM,PLAYER,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,PLAYER_ID
+1995-96,Mavericks,Scott Brooks,1,G,11-May,165,31-Jul-65,30,7,418
+1995-96,Mavericks,Cherokee Parks,4,C,11-Jun,275,11-Oct-72,23,R,685
+1995-96,Mavericks,Jason Kidd,5,G,4-Jun,208,23-Mar-73,23,1,467
+1995-96,Mavericks,Tony Dumas,7,G,6-Jun,190,25-Aug-72,23,1,434
+1995-96,Mavericks,David Wood,10,F,9-Jun,230,30-Nov-64,31,5,116
+1995-96,Mavericks,George McCloud,21,F-G,8-Jun,225,27-May-67,29,5,45
+1995-96,Mavericks,Jim Jackson,24,G,6-Jun,215,14-Oct-70,25,3,754
+1995-96,Mavericks,Lucious Harris,30,G,5-Jun,205,18-Dec-70,25,2,446
+1995-96,Mavericks,Jamal Mashburn,32,F,8-Jun,250,29-Nov-72,23,2,469
+1995-96,Mavericks,Loren Meyer,40,C,10-Jun,260,30-Dec-72,23,R,684
+1995-96,Mavericks,Terry Davis,43,F-C,10-Jun,250,17-Jun-67,29,6,426
+1995-96,Mavericks,Lorenzo Williams,44,C-F,9-Jun,220,15-Jul-69,26,3,31
+1995-96,Mavericks,Popeye Jones,54,F,8-Jun,265,17-Jun-70,26,2,461
+1996-97,Mavericks,Stevin Smith,1,G,2-Jun,208,24-Jan-72,25,,1478
+1996-97,Mavericks,Michael Finley,4,F-G,7-Jun,215,6-Mar-73,24,1,714
+1996-97,Mavericks,Sasha Danilovic,5,G,6-Jun,200,26-Feb-70,27,1,390
+1996-97,Mavericks,Khalid Reeves,6,G,3-Jun,201,15-Jul-72,24,2,234
+1996-97,Mavericks,Derek Harper,12,G,4-Jun,206,13-Oct-61,35,13,157
+1996-97,Mavericks,Martin Muursepp,13,F,9-Jun,235,26-Sep-74,22,R,982
+1996-97,Mavericks,Robert Pack,14,G,2-Jun,190,3-Feb-69,28,5,123
+1996-97,Mavericks,Erick Strickland,20,G,3-Jun,210,25-Nov-73,23,R,1065
+1996-97,Mavericks,,31,F,8-Jun,222,,,1,77741
+1996-97,Mavericks,Stacey King,33,F-C,11-Jun,250,29-Jan-67,30,6,351
+1996-97,Mavericks,Shawn Bradley,44,C,6-Jul,248,22-Mar-72,25,3,762
+1996-97,Mavericks,A.C. Green,45,F,9-Jun,225,4-Oct-63,33,11,920
+1996-97,Mavericks,Greg Dreiling,50,C,1-Jul,265,7-Nov-63,33,9,1068
+1997-98,Mavericks,Michael Finley,4,G-F,7-Jun,215,6-Mar-73,25,2,714
+1997-98,Mavericks,Khalid Reeves,6,G,3-Jun,201,15-Jul-72,25,3,234
+1997-98,Mavericks,Chris Anstey,11,C,Jul-00,249,1-Jan-75,23,R,1512
+1997-98,Mavericks,Martin Muursepp,13,F,9-Jun,235,26-Sep-74,23,1,982
+1997-98,Mavericks,Erick Strickland,20,G,3-Jun,210,25-Nov-73,24,1,1065
+1997-98,Mavericks,Shawn Respert,21,G,2-Jun,195,6-Feb-72,26,2,704
+1997-98,Mavericks,Cedric Ceballos,23,F,7-Jun,220,2-Aug-69,28,7,76
+1997-98,Mavericks,Hubert Davis,24,G,5-Jun,183,17-May-70,28,5,93
+1997-98,Mavericks,Bubba Wells,35,F,5-Jun,230,26-Jul-74,23,R,1528
+1997-98,Mavericks,Shawn Bradley,44,C,6-Jul,248,22-Mar-72,26,4,762
+1997-98,Mavericks,A.C. Green,45,F,9-Jun,225,4-Oct-63,34,12,920
+1997-98,Mavericks,Eric Riley,50,C,Jul-00,245,2-Jun-70,28,2,35
+1997-98,Mavericks,Samaki Walker,52,F,9-Jun,240,25-Feb-76,22,1,955
+1998-99,Mavericks,Michael Finley,4,G-F,7-Jun,215,6-Mar-73,26,3,714
+1998-99,Mavericks,Chris Anstey,11,C,Jul-00,249,1-Jan-75,24,1,1512
+1998-99,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,25,2,959
+1998-99,Mavericks,Hot Rod Williams,18,C,11-Jun,245,9-Aug-62,36,12,73
+1998-99,Mavericks,Erick Strickland,20,G,3-Jun,210,25-Nov-73,25,2,1065
+1998-99,Mavericks,Hubert Davis,24,G,5-Jun,183,17-May-70,29,6,93
+1998-99,Mavericks,Gary Trent,33,F,8-Jun,250,22-Sep-74,24,3,718
+1998-99,Mavericks,Bruno Sundov,40,C,2-Jul,220,10-Feb-80,19,R,1743
+1998-99,Mavericks,Dirk Nowitzki,41,F,Jul-00,237,19-Jun-78,21,R,1717
+1998-99,Mavericks,Shawn Bradley,44,C,6-Jul,263,22-Mar-72,27,5,762
+1998-99,Mavericks,A.C. Green,45,F,9-Jun,225,4-Oct-63,35,13,920
+1998-99,Mavericks,Samaki Walker,52,F,9-Jun,258,25-Feb-76,23,2,955
+1999-00,Mavericks,Michael Finley,4,G,7-Jun,215,6-Mar-73,27,4,714
+1999-00,Mavericks,Damon Jones,11,G,3-Jun,185,25-Aug-76,23,1,1800
+1999-00,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,26,3,959
+1999-00,Mavericks,Robert Pack,14,G,2-Jun,190,3-Feb-69,31,8,123
+1999-00,Mavericks,Erick Strickland,20,G,3-Jun,210,25-Nov-73,26,3,1065
+1999-00,Mavericks,Greg Buckner,21,G,4-Jun,210,16-Sep-76,23,R,1761
+1999-00,Mavericks,Cedric Ceballos,23,F,7-Jun,220,2-Aug-69,30,9,76
+1999-00,Mavericks,Hubert Davis,24,G,5-Jun,183,17-May-70,30,7,93
+1999-00,Mavericks,Gary Trent,33,F,8-Jun,250,22-Sep-74,25,4,718
+1999-00,Mavericks,Dirk Nowitzki,41,F-C,Jul-00,237,19-Jun-78,22,1,1717
+1999-00,Mavericks,Shawn Bradley,44,C,6-Jul,263,22-Mar-72,28,6,762
+1999-00,Mavericks,Sean Rooks,45,C,10-Jun,270,9-Sep-69,30,6,399
+2000-01,Mavericks,Donnell Harvey,1,F,8-Jun,220,26-Aug-80,20,R,2051
+2000-01,Mavericks,Mark Bryant,2,F-C,9-Jun,250,25-Apr-65,36,12,95
+2000-01,Mavericks,Vernon Maxwell,3,G,4-Jun,190,12-Sep-65,35,12,137
+2000-01,Mavericks,Michael Finley,4,F-G,7-Jun,215,6-Mar-73,28,5,714
+2000-01,Mavericks,Juwan Howard,5,F,9-Jun,250,7-Feb-73,28,6,436
+2000-01,Mavericks,Howard Eisley,9,G,2-Jun,180,4-Dec-72,28,6,458
+2000-01,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,27,4,959
+2000-01,Mavericks,Eduardo Najera,14,F,8-Jun,234,11-Jul-76,24,R,2059
+2000-01,Mavericks,Wang Zhi-zhi,16,C,1-Jul,220,8-Jul-77,23,R,1917
+2000-01,Mavericks,Greg Buckner,21,G,4-Jun,210,16-Sep-76,24,1,1761
+2000-01,Mavericks,Dirk Nowitzki,41,F,11-Jun,237,19-Jun-78,23,2,1717
+2000-01,Mavericks,Shawn Bradley,44,C,6-Jul,265,22-Mar-72,29,7,762
+2000-01,Mavericks,Calvin Booth,52,C,11-Jun,241,7-May-76,25,1,1916
+2001-02,Mavericks,Johnny Newman,2,F,7-Jun,210,28-Nov-63,38,15,271
+2001-02,Mavericks,Michael Finley,4,G-F,7-Jun,215,6-Mar-73,29,6,714
+2001-02,Mavericks,Adrian Griffin,7,F-G,5-Jun,215,4-Jul-74,27,2,1559
+2001-02,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,28,5,959
+2001-02,Mavericks,Eduardo Najera,14,F,8-Jun,234,11-Jul-76,25,1,2059
+2001-02,Mavericks,Wang Zhi-zhi,16,C,1-Jul,220,8-Jul-77,24,1,1917
+2001-02,Mavericks,Greg Buckner,21,F-G,4-Jun,210,16-Sep-76,25,2,1761
+2001-02,Mavericks,Nick Van Exel,31,G,1-Jun,195,27-Nov-71,30,8,89
+2001-02,Mavericks,Dirk Nowitzki,41,C-F,Jul-00,245,19-Jun-78,24,3,1717
+2001-02,Mavericks,Evan Eschmeyer,42,C,11-Jun,255,30-May-75,27,2,1915
+2001-02,Mavericks,Shawn Bradley,44,C,6-Jul,265,22-Mar-72,30,8,762
+2001-02,Mavericks,Raef LaFrentz,45,C-F,11-Jun,245,29-May-76,26,3,1711
+2002-03,Mavericks,Michael Finley,4,G-F,7-Jun,225,6-Mar-73,30,7,714
+2002-03,Mavericks,Avery Johnson,6,G,11-May,180,25-Mar-65,38,14,422
+2002-03,Mavericks,Adrian Griffin,7,F-G,5-Jun,230,4-Jul-74,28,3,1559
+2002-03,Mavericks,Tariq Abdul-Wahad,9,F-G,6-Jun,225,3-Nov-74,28,5,1505
+2002-03,Mavericks,Raja Bell,11,G,5-Jun,205,19-Sep-76,26,2,1952
+2002-03,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,29,6,959
+2002-03,Mavericks,Eduardo Najera,14,F,8-Jun,235,11-Jul-76,26,2,2059
+2002-03,Mavericks,Adam Harrington,21,G,5-Jun,200,5-Jul-80,22,R,2492
+2002-03,Mavericks,Nick Van Exel,31,G,1-Jun,195,27-Nov-71,31,9,89
+2002-03,Mavericks,Dirk Nowitzki,41,C-F,Jul-00,245,19-Jun-78,25,4,1717
+2002-03,Mavericks,Evan Eschmeyer,42,C,11-Jun,255,30-May-75,28,3,1915
+2002-03,Mavericks,Shawn Bradley,44,C,6-Jul,275,22-Mar-72,31,9,762
+2002-03,Mavericks,Raef LaFrentz,45,C-F,11-Jun,245,29-May-76,27,4,1711
+2002-03,Mavericks,Popeye Jones,54,F,8-Jun,250,17-Jun-70,33,9,461
+2002-03,Mavericks,Derek Hood,55,F,8-Jun,222,22-Dec-76,26,1,1967
+2003-04,Mavericks,Travis Best,3,G,11-May,185,12-Jul-72,31,8,696
+2003-04,Mavericks,Michael Finley,4,G-F,7-Jun,225,6-Mar-73,31,8,714
+2003-04,Mavericks,Josh Howard,5,F,7-Jun,210,28-Apr-80,24,R,2572
+2003-04,Mavericks,Marquis Daniels,6,G,6-Jun,200,7-Jan-81,23,R,2605
+2003-04,Mavericks,Tony Delk,7,G,2-Jun,189,28-Jan-74,30,7,960
+2003-04,Mavericks,Antoine Walker,8,F,9-Jun,245,12-Aug-76,27,7,952
+2003-04,Mavericks,Tariq Abdul-Wahad,9,F-G,6-Jun,235,3-Nov-74,29,6,1505
+2003-04,Mavericks,Steve Nash,13,G,3-Jun,195,7-Feb-74,30,7,959
+2003-04,Mavericks,Eduardo Najera,14,C,8-Jun,235,11-Jul-76,27,3,2059
+2003-04,Mavericks,Danny Fortson,21,C,8-Jun,260,27-Mar-76,28,6,1504
+2003-04,Mavericks,Antawn Jamison,33,F,9-Jun,225,12-Jun-76,28,5,1712
+2003-04,Mavericks,Dirk Nowitzki,41,C-F,Jul-00,245,19-Jun-78,26,5,1717
+2003-04,Mavericks,Scott Williams,42,C-F,10-Jun,260,21-Mar-68,36,13,281
+2003-04,Mavericks,Shawn Bradley,44,C,6-Jul,275,22-Mar-72,32,10,762
+2004-05,Mavericks,Keith Van Horn,2,F,10-Jun,245,23-Oct-75,29,7,1496
+2004-05,Mavericks,Michael Finley,4,G-F,7-Jun,225,6-Mar-73,32,9,714
+2004-05,Mavericks,Josh Howard,5,F,7-Jun,210,28-Apr-80,25,1,2572
+2004-05,Mavericks,Marquis Daniels,6,G,6-Jun,200,7-Jan-81,24,1,2605
+2004-05,Mavericks,Darrell Armstrong,10,G,1-Jun,180,22-Jun-68,37,10,353
+2004-05,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,29,8,956
+2004-05,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,27,5,1891
+2004-05,Mavericks,Devin Harris,34,G,3-Jun,185,27-Feb-83,22,R,2734
+2004-05,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,27,6,1717
+2004-05,Mavericks,Jerry Stackhouse,42,G-F,6-Jun,218,5-Nov-74,30,9,711
+2004-05,Mavericks,Shawn Bradley,44,C,6-Jul,275,22-Mar-72,33,11,762
+2004-05,Mavericks,Alan Henderson,50,F-C,9-Jun,240,2-Dec-72,32,9,673
+2005-06,Mavericks,Keith Van Horn,2,F,10-Jun,245,23-Oct-75,30,8,1496
+2005-06,Mavericks,Josh Howard,5,F,7-Jun,210,28-Apr-80,26,2,2572
+2005-06,Mavericks,Marquis Daniels,6,G,6-Jun,200,7-Jan-81,25,2,2605
+2005-06,Mavericks,DeSagana Diop,7,C,Jul-00,280,30-Jan-82,24,4,2205
+2005-06,Mavericks,Darrell Armstrong,10,G,1-Jun,180,22-Jun-68,38,11,353
+2005-06,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,30,9,956
+2005-06,Mavericks,DJ Mbenga,28,C,Jul-00,245,30-Dec-80,25,1,2788
+2005-06,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,28,6,1891
+2005-06,Mavericks,Josh Powell,33,F,9-Jun,225,25-Jan-83,23,R,2694
+2005-06,Mavericks,Devin Harris,34,G,3-Jun,185,27-Feb-83,23,1,2734
+2005-06,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,28,7,1717
+2005-06,Mavericks,Jerry Stackhouse,42,G-F,6-Jun,218,5-Nov-74,31,10,711
+2005-06,Mavericks,Adrian Griffin,44,G-F,5-Jun,230,4-Jul-74,31,6,1559
+2006-07,Mavericks,Greg Buckner,1,G-F,4-Jun,210,16-Sep-76,30,7,1761
+2006-07,Mavericks,Josh Howard,5,F-G,7-Jun,210,28-Apr-80,27,3,2572
+2006-07,Mavericks,DeSagana Diop,7,C,Jul-00,280,30-Jan-82,25,5,2205
+2006-07,Mavericks,Jose Juan Barea,11,G,Jun-00,175,26-Jun-84,23,R,200826
+2006-07,Mavericks,Maurice Ager,13,G,5-Jun,202,9-Feb-84,23,R,200772
+2006-07,Mavericks,Pops Mensah-Bonsu,21,F,9-Jun,240,7-Sep-83,23,R,200822
+2006-07,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,31,10,956
+2006-07,Mavericks,DJ Mbenga,28,C,Jul-00,255,30-Dec-80,26,2,2788
+2006-07,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,29,7,1891
+2006-07,Mavericks,Devin Harris,34,G,3-Jun,185,27-Feb-83,24,2,2734
+2006-07,Mavericks,Devean George,40,G-F,8-Jun,235,29-Aug-77,29,7,1904
+2006-07,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,29,8,1717
+2006-07,Mavericks,Jerry Stackhouse,42,F-G,6-Jun,218,5-Nov-74,32,11,711
+2006-07,Mavericks,Austin Croshere,44,F,10-Jun,235,1-May-75,32,9,1506
+2006-07,Mavericks,Kevin Willis,45,C-F,Jul-00,245,6-Sep-62,44,20,788
+2007-08,Mavericks,Jason Kidd,2,G,4-Jun,210,23-Mar-73,35,13,467
+2007-08,Mavericks,Josh Howard,5,F-G,5-Jun,210,28-Apr-80,28,4,2572
+2007-08,Mavericks,Eddie Jones,6,G-F,6-Jun,200,20-Oct-71,36,13,224
+2007-08,Mavericks,Tyronn Lue,10,G,Jun-00,175,3-May-77,31,9,1731
+2007-08,Mavericks,Jose Juan Barea,11,G,Jun-00,175,26-Jun-84,24,1,200826
+2007-08,Mavericks,Jamaal Magloire,20,C,11-Jun,265,21-May-78,30,7,2048
+2007-08,Mavericks,Antoine Wright,21,G-F,7-Jun,215,6-Feb-84,24,2,101120
+2007-08,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,32,11,956
+2007-08,Mavericks,Malik Allen,30,F,10-Jun,255,27-Jun-78,30,6,2124
+2007-08,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,30,8,1891
+2007-08,Mavericks,Brandon Bass,32,F,8-Jun,240,30-Apr-85,23,2,101138
+2007-08,Mavericks,Devean George,40,F-G,8-Jun,235,29-Aug-77,30,8,1904
+2007-08,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,30,9,1717
+2007-08,Mavericks,Jerry Stackhouse,42,G-F,6-Jun,218,5-Nov-74,33,12,711
+2007-08,Mavericks,Juwan Howard,55,F,9-Jun,253,7-Feb-73,35,13,436
+2008-09,Mavericks,Ryan Hollins,1,C,Jul-00,230,10-Oct-84,24,2,200797
+2008-09,Mavericks,Jason Kidd,2,G,4-Jun,210,23-Mar-73,36,14,467
+2008-09,Mavericks,Shawne Williams,4,F,9-Jun,225,16-Feb-86,23,2,200761
+2008-09,Mavericks,Josh Howard,5,F-G,7-Jun,210,28-Apr-80,29,5,2572
+2008-09,Mavericks,Gerald Green,8,G-F,8-Jun,200,26-Jan-86,23,3,101123
+2008-09,Mavericks,Jose Juan Barea,11,G,Jun-00,175,26-Jun-84,25,2,200826
+2008-09,Mavericks,Matt Carroll,13,G,6-Jun,212,28-Aug-80,28,5,2679
+2008-09,Mavericks,Antoine Wright,21,G-F,7-Jun,215,6-Feb-84,25,3,101120
+2008-09,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,33,12,956
+2008-09,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,31,9,1891
+2008-09,Mavericks,Brandon Bass,32,F,8-Jun,250,30-Apr-85,24,3,101138
+2008-09,Mavericks,James Singleton,33,F,8-Jun,230,20-Jul-81,27,4,101189
+2008-09,Mavericks,Devean George,40,F,8-Jun,235,29-Aug-77,31,9,1904
+2008-09,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,31,10,1717
+2008-09,Mavericks,Jerry Stackhouse,42,G-F,6-Jun,218,5-Nov-74,34,13,711
+2009-10,Mavericks,Shawn Marion,0,F,7-Jun,228,7-May-78,32,10,1890
+2009-10,Mavericks,Jason Kidd,2,G,4-Jun,210,23-Mar-73,37,15,467
+2009-10,Mavericks,Rodrigue Beaubois,3,G,Jun-00,170,24-Feb-88,22,R,201958
+2009-10,Mavericks,Caron Butler,4,F,7-Jun,228,13-Mar-80,30,7,2406
+2009-10,Mavericks,Tim Thomas,7,F,10-Jun,240,26-Feb-77,33,12,1501
+2009-10,Mavericks,Jose Juan Barea,11,G,Jun-00,175,26-Jun-84,26,3,200826
+2009-10,Mavericks,Matt Carroll,13,G,6-Jun,212,28-Aug-80,29,6,2679
+2009-10,Mavericks,Eduardo Najera,14,F,8-Jun,235,11-Jul-76,33,9,2059
+2009-10,Mavericks,Erick Dampier,25,C,11-Jun,265,14-Jul-75,34,13,956
+2009-10,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,32,10,1891
+2009-10,Mavericks,Brendan Haywood,33,C,Jul-00,263,27-Nov-79,30,8,2217
+2009-10,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,32,11,1717
+2009-10,Mavericks,DeShawn Stevenson,92,G,5-Jun,218,3-Apr-81,29,9,2052
+2010-11,Mavericks,Shawn Marion,0,F,7-Jun,228,7-May-78,33,11,1890
+2010-11,Mavericks,Jason Kidd,2,G,4-Jun,210,23-Mar-73,38,16,467
+2010-11,Mavericks,Rodrigue Beaubois,3,G,2-Jun,185,24-Feb-88,23,1,201958
+2010-11,Mavericks,Caron Butler,4,F,7-Jun,228,13-Mar-80,31,8,2406
+2010-11,Mavericks,Tyson Chandler,6,C,1-Jul,235,2-Oct-82,28,9,2199
+2010-11,Mavericks,Jose Juan Barea,11,G,Jun-00,175,26-Jun-84,27,4,200826
+2010-11,Mavericks,Corey Brewer,13,F,9-Jun,188,5-Mar-86,25,3,201147
+2010-11,Mavericks,Peja Stojakovic,16,F,10-Jun,229,9-Jun-77,34,12,978
+2010-11,Mavericks,Dominique Jones,20,G,5-Jun,215,15-Oct-88,22,R,202346
+2010-11,Mavericks,Ian Mahinmi,28,C,11-Jun,230,5-Nov-86,24,2,101133
+2010-11,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,33,11,1891
+2010-11,Mavericks,Brendan Haywood,33,C,Jul-00,263,27-Nov-79,31,9,2217
+2010-11,Mavericks,Brian Cardinal,35,F,8-Jun,240,2-May-77,34,10,2073
+2010-11,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,33,12,1717
+2010-11,Mavericks,DeShawn Stevenson,92,G,5-Jun,218,3-Apr-81,30,10,2052
+2011-12,Mavericks,Shawn Marion,0,F,7-Jun,228,7-May-78,34,12,1890
+2011-12,Mavericks,Jason Kidd,2,G,4-Jun,210,23-Mar-73,39,17,467
+2011-12,Mavericks,Rodrigue Beaubois,3,G,2-Jun,185,24-Feb-88,24,2,201958
+2011-12,Mavericks,Kelenna Azubuike,4,G,5-Jun,215,16-Dec-83,28,4,101235
+2011-12,Mavericks,Lamar Odom,7,F,10-Jun,230,6-Nov-79,32,12,1885
+2011-12,Mavericks,Yi Jianlian,9,F,Jul-00,250,27-Oct-87,24,4,201146
+2011-12,Mavericks,Delonte West,13,G,3-Jun,180,26-Jul-83,28,7,2753
+2011-12,Mavericks,Dominique Jones,20,G,5-Jun,215,15-Oct-88,23,1,202346
+2011-12,Mavericks,Vince Carter,25,G-F,6-Jun,220,26-Jan-77,35,13,1713
+2011-12,Mavericks,Ian Mahinmi,28,C,11-Jun,230,5-Nov-86,25,3,101133
+2011-12,Mavericks,Jason Terry,31,G,2-Jun,180,15-Sep-77,34,12,1891
+2011-12,Mavericks,Brendan Haywood,33,C,Jul-00,263,27-Nov-79,32,10,2217
+2011-12,Mavericks,Brandan Wright,34,F,10-Jun,210,5-Oct-87,24,3,201148
+2011-12,Mavericks,Brian Cardinal,35,F,8-Jun,240,2-May-77,35,11,2073
+2011-12,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,34,13,1717
+2012-13,Mavericks,Shawn Marion,0,F,7-Jun,228,7-May-78,35,13,1890
+2012-13,Mavericks,Jared Cunningham,1,G,4-Jun,195,22-May-91,22,R,203099
+2012-13,Mavericks,Rodrigue Beaubois,3,G,2-Jun,185,24-Feb-88,25,3,201958
+2012-13,Mavericks,Darren Collison,4,G,Jun-00,175,23-Aug-87,25,3,201954
+2012-13,Mavericks,Bernard James,5,C,10-Jun,240,7-Feb-85,28,R,203108
+2012-13,Mavericks,Jae Crowder,9,F,6-Jun,235,6-Jul-90,22,R,203109
+2012-13,Mavericks,Josh Akognon,10,G,11-May,185,10-Feb-86,27,R,203006
+2012-13,Mavericks,Mike James,13,G,2-Jun,188,23-Jun-75,38,10,2229
+2012-13,Mavericks,Anthony Morrow,23,G,5-Jun,210,27-Sep-85,27,4,201627
+2012-13,Mavericks,Vince Carter,25,G-F,6-Jun,220,26-Jan-77,36,14,1713
+2012-13,Mavericks,O.J. Mayo,32,G,4-Jun,210,5-Nov-87,25,4,201564
+2012-13,Mavericks,Brandan Wright,34,C-F,10-Jun,210,5-Oct-87,25,4,201148
+2012-13,Mavericks,Chris Kaman,35,C,Jul-00,265,28-Apr-82,31,9,2549
+2012-13,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,35,14,1717
+2012-13,Mavericks,Elton Brand,42,F,9-Jun,254,11-Mar-79,34,13,1882
+2013-14,Mavericks,Raymond Felton,,G,1-Jun,205,26-Jun-84,30,8,101109
+2013-14,Mavericks,Tyson Chandler,,C,1-Jul,240,2-Oct-82,31,12,2199
+2013-14,Mavericks,Shawn Marion,0,F,7-Jun,228,7-May-78,36,14,1890
+2013-14,Mavericks,Bernard James,5,C,10-Jun,240,7-Feb-85,29,1,203108
+2013-14,Mavericks,Ricky Ledo,7,G,7-Jun,195,10-Sep-92,21,R,203495
+2013-14,Mavericks,Jae Crowder,9,F,6-Jun,235,6-Jul-90,23,1,203109
+2013-14,Mavericks,Monta Ellis,11,G,3-Jun,185,26-Oct-85,28,8,101145
+2013-14,Mavericks,Devin Harris,20,G,3-Jun,192,27-Feb-83,31,9,2734
+2013-14,Mavericks,Vince Carter,25,G-F,6-Jun,220,26-Jan-77,37,15,1713
+2013-14,Mavericks,Gal Mekel,33,G,3-Jun,191,4-Mar-88,26,R,203539
+2013-14,Mavericks,Brandan Wright,34,F,10-Jun,210,5-Oct-87,26,5,201148
+2013-14,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,36,15,1717
+2013-14,Mavericks,DeJuan Blair,45,C-F,7-Jun,270,22-Apr-89,25,4,201971
+2014-15,Mavericks,Amar'e Stoudemire,1,C-F,10-Jun,245,16-Nov-82,32,12,2405
+2014-15,Mavericks,Raymond Felton,2,G,1-Jun,205,26-Jun-84,31,9,101109
+2014-15,Mavericks,Charlie Villanueva,3,F,11-Jun,232,24-Aug-84,30,9,101111
+2014-15,Mavericks,Greg Smith,4,C,10-Jun,250,8-Jan-91,24,3,202962
+2014-15,Mavericks,Jose Juan Barea,5,G,Jun-00,185,26-Jun-84,31,8,200826
+2014-15,Mavericks,Tyson Chandler,6,C,1-Jul,240,2-Oct-82,32,13,2199
+2014-15,Mavericks,Al-Farouq Aminu,7,F,9-Jun,215,21-Sep-90,24,4,202329
+2014-15,Mavericks,Dwight Powell,8,F,11-Jun,240,20-Jul-91,23,R,203939
+2014-15,Mavericks,Rajon Rondo,9,G,1-Jun,186,22-Feb-86,29,8,200765
+2014-15,Mavericks,Monta Ellis,11,G,3-Jun,185,26-Oct-85,29,9,101145
+2014-15,Mavericks,Devin Harris,20,G,3-Jun,192,27-Feb-83,32,10,2734
+2014-15,Mavericks,Richard Jefferson,24,F,7-Jun,234,21-Jun-80,35,13,2210
+2014-15,Mavericks,Chandler Parsons,25,F,9-Jun,227,25-Oct-88,26,3,202718
+2014-15,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,37,16,1717
+2014-15,Mavericks,Bernard James,55,C,10-Jun,235,7-Feb-85,30,2,203108
+2015-16,Mavericks,Justin Anderson,1,G-F,6-Jun,228,19-Nov-93,22,R,1626147
+2015-16,Mavericks,Raymond Felton,2,G,1-Jun,205,26-Jun-84,31,10,101109
+2015-16,Mavericks,Charlie Villanueva,3,F,11-Jun,232,24-Aug-84,31,10,101111
+2015-16,Mavericks,Jose Juan Barea,5,G,Jun-00,185,26-Jun-84,31,9,200826
+2015-16,Mavericks,Dwight Powell,7,F-C,11-Jun,240,20-Jul-91,24,1,203939
+2015-16,Mavericks,Deron Williams,8,G,3-Jun,200,26-Jun-84,31,10,101114
+2015-16,Mavericks,JaVale McGee,11,C,Jul-00,270,19-Jan-88,28,7,201580
+2015-16,Mavericks,Jeremy Evans,21,F,9-Jun,200,24-Oct-87,28,5,202379
+2015-16,Mavericks,Wesley Matthews,23,G-F,5-Jun,220,14-Oct-86,29,6,202083
+2015-16,Mavericks,Chandler Parsons,25,F,10-Jun,230,25-Oct-88,27,4,202718
+2015-16,Mavericks,Zaza Pachulia,27,C,11-Jun,275,10-Feb-84,32,12,2585
+2015-16,Mavericks,Devin Harris,34,G,3-Jun,185,27-Feb-83,33,11,2734
+2015-16,Mavericks,Dirk Nowitzki,41,F,Jul-00,245,19-Jun-78,37,17,1717
+2015-16,Mavericks,David Lee,42,F-C,9-Jun,245,29-Apr-83,33,10,101135
+2015-16,Mavericks,Salah Mejri,50,C,2-Jul,245,15-Jun-86,29,R,1626257
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
