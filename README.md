@@ -1,2 +1,2 @@
 # NBA Stats Analysis
-This is a school project. Please check final_project.doc for more details.
+[Hack](http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/) data from [NBA stats](https://stats.nba.com/) and use them to calculate players [Player Efficiency Rating(PER)](https://www.basketball-reference.com/about/per.html).
